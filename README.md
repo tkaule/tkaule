@@ -1,2 +1,2 @@
 # tkaule
-windows run
+vscode run
